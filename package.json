@@ -69,7 +69,7 @@
     "react-modal": "3.9.1",
     "react-terminal-component": "^1.4.1",
     "react-tooltip": "3.10.0",
-    "reactotron-core-server": "3.0.2",
+    "reactotron-core-server": "3.1.1",
     "source-map-support": "0.5.13",
     "stringify-object": "3.3.0"
   },
