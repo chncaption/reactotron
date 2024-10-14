@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@emotion/core": "^10.0.16",
-    "@storybook/addon-actions": "^5.1.11",
+    "@storybook/addon-actions": "^6.5.0",
     "@storybook/addon-links": "^5.1.11",
     "@storybook/react-native": "^5.1.11",
     "apisauce": "^1.0.5",
